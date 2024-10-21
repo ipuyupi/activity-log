@@ -18,16 +18,94 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🆕 Opened an issue [#11](https://github.com/TheDanniCraft/activity-log/issues/11) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-2. 🔀 Merged a PR in a private repo
-3. 🗣 Commented on a review of [PR #7](https://github.com/TheDanniCraft/activity-log/pull/7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799346089)
-4. 🗣 Commented on a review of [PR #7](https://github.com/TheDanniCraft/activity-log/pull/7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799363598)
-5. 🗣 Commented on a review of [PR #7](https://github.com/TheDanniCraft/activity-log/pull/7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799357469)
-6. 🗣 Commented on a review of [PR #7](https://github.com/TheDanniCraft/activity-log/pull/7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log): [View Comment](https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799352192)
-7. 🔎 Reviewed [PR #7](https://github.com/TheDanniCraft/activity-log/pull/7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-8. 🔎 Reviewed [PR #7](https://github.com/TheDanniCraft/activity-log/pull/7) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-9. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-09-16` in a private repo
-10. 🔀 Merged a PR in a private repo
+1. 📝 Committed to a private repo
+2. 📝 Committed to [ipuyupi/activity-log](https://github.com/ipuyupi/activity-log/commit/864e2ce2daf6790666cb099ddd2b420be2f9bb2e)
+3. 📝 Committed to [ipuyupi/activity-log](https://github.com/ipuyupi/activity-log/commit/fa414e04753f0f1bf4bc3f149799e877c8907702)
+4. 📝 Committed to [ipuyupi/activity-log](https://github.com/ipuyupi/activity-log/commit/ae0c2aaab58cd5a6b53c405c4470aedca879b8eb)
+5. ➕ Created a new branch `18-create-a-deployment-pipeline` in a private repo
+6. 🆕 Opened an issue in a private repo
+7. ❌ Closed an issue in a private repo
+8. ❌ Closed an issue in a private repo
+9. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+10. 🗑️ Deleted a branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+11. 📝 Committed to a private repo
+12. 🔀 Merged a PR in a private repo
+13. 📥 Opened a PR in a private repo
+14. 📝 Committed to a private repo
+15. 📝 Committed to a private repo
+16. ➕ Created a new branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+17. 📝 Committed to a private repo
+18. 🗑️ Deleted a branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+19. 📝 Committed to a private repo
+20. 🔀 Merged a PR in a private repo
+21. 📥 Opened a PR in a private repo
+22. 📝 Committed to a private repo
+23. 📝 Committed to a private repo
+24. ➕ Created a new branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+25. 🗑️ Deleted a branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+26. 📝 Committed to a private repo
+27. 🔀 Merged a PR in a private repo
+28. 📥 Opened a PR in a private repo
+29. 📝 Committed to a private repo
+30. 📝 Committed to a private repo
+31. ➕ Created a new branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+32. 🗑️ Deleted a branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+33. 📝 Committed to a private repo
+34. 🔀 Merged a PR in a private repo
+35. 📥 Opened a PR in a private repo
+36. 📝 Committed to a private repo
+37. 📝 Committed to a private repo
+38. ➕ Created a new branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+39. 🗑️ Deleted a branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+40. 📝 Committed to a private repo
+41. 🔀 Merged a PR in a private repo
+42. 📥 Opened a PR in a private repo
+43. 📝 Committed to a private repo
+44. 📝 Committed to a private repo
+45. 🔀 Merged a PR in a private repo
+46. 📝 Committed to a private repo
+47. 📥 Opened a PR in a private repo
+48. 📝 Committed to a private repo
+49. ➕ Created a new branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+50. 📝 Committed to a private repo
+51. 🗑️ Deleted a branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+52. 📝 Committed to a private repo
+53. 🔀 Merged a PR in a private repo
+54. 📝 Committed to a private repo
+55. 📥 Opened a PR in a private repo
+56. 📝 Committed to a private repo
+57. ➕ Created a new branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+58. 🗑️ Deleted a branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+59. 🔀 Merged a PR in a private repo
+60. 📝 Committed to a private repo
+61. 📝 Committed to a private repo
+62. 📥 Opened a PR in a private repo
+63. 📝 Committed to a private repo
+64. ➕ Created a new branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+65. 📝 Committed to a private repo
+66. 🗑️ Deleted a branch `KAN-15-As-a-planner-I-want-to-prioritize-academic-related-events` in a private repo
+67. 📝 Committed to a private repo
+68. 🔀 Merged a PR in a private repo
+69. 📥 Opened a PR in a private repo
+70. 📝 Committed to a private repo
+71. 📝 Committed to a private repo
+72. 🆕 Opened an issue in a private repo
+73. ❌ Closed an issue in a private repo
+74. ❌ Closed an issue in a private repo
+75. ❌ Closed an issue in a private repo
+76. ❌ Closed an issue in a private repo
+77. 🆕 Opened an issue in a private repo
+78. 🆕 Opened an issue in a private repo
+79. 🆕 Opened an issue in a private repo
+80. ➕ Created a new branch `4-make-appointments-with-other-student-association-for-event-collaboration` in a private repo
+81. 🆕 Opened an issue in a private repo
+82. 🆕 Opened an issue in a private repo
+83. ❌ Closed an issue in a private repo
+84. 🆕 Opened an issue in a private repo
+85. 🆕 Opened an issue in a private repo
+86. ➕ Created a new branch `KAN-10-Check` in a private repo
+87. ➕ Created a new branch `KAN-9-Plan-Event` in a private repo
+88. 🗑️ Deleted a branch `KAN-4-ISA-Welcome-Party` in a private repo
 <!--END_SECTION:activity-->
 
 ## 📖Usage
