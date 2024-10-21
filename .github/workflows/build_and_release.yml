@@ -32,7 +32,7 @@ jobs:
           git config --global user.email 'yuviapy@gmail.com'
           git commit -am "dist build"
           git push
-
+          
 test:
   runs-on: ubuntu-latest
   defaults:
